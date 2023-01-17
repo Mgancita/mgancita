@@ -1,5 +1,3 @@
-[![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgancita)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Hi there 👋
 
 - 🔭  I’m currently working at [Arthur](https://askarthur.art/)! An art-tech startup trying to democratize information about the Art world.
